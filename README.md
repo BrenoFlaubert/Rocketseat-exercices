@@ -1,1 +1,1 @@
-# 🚀 Rocketseat-projects
+# 🚀 Rocketseat
