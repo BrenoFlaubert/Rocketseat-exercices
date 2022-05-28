@@ -1,6 +1,6 @@
 # 🚀 Discover Rocketseat
 
-<h1>Conceitos abordados nos desafios...</h1
+<h2>Conceitos abordados nos desafios...</h2>
 <br>
 <p>Back-end com JavaScript, Node.JS e SQL</p>
 <p>Estrutura e gerenciamento de dados</p>
