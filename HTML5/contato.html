@@ -7,30 +7,36 @@
     <title>Contato</title>
 </head>
 <body>
-    <form action="">
+    <form action="" method="">
         <fieldset>
           <legend>Entre em contato</legend>
-          <label for="">Assunto: </label>
-          <select name="Assunto" id="">
+          <label for="assunto">Assunto: </label>
+          <select name="selecionar" id="assunto">
             <option value="suporte">Suporte</option>
             <option value="sugestao">Sugestão</option>
             <option value="reclamacao">Reclamação</option>
           </select>
           <br>
-          <legend>Nome Completo</legend>
-          <input type="text" placeholder="Seu nome">
+          <label for="nome">
+              <legend>Nome Completo</legend>
+              <input type="text" id="nome" placeholder="Seu nome">
+          </label>
           <br>
-          <legend>E-mail</legend>
-          <input type="text" placeholder="email@seudominio.com">
+          <label for="email">
+              <legend>E-mail</legend>
+              <input type="text" id="email" placeholder="email@seudominio.com">
+          </label>
           <br>
           <legend>Menssagem</legend>
           <textarea  cols="20" rows="10"></textarea>
           <br>
           <p>
-            <input type="checkbox">
-            <label for="">Aceito receber novidades por e-mail</label>
+            <input id="aceitar" type="checkbox">
+            <label for="aceitar">Aceito receber novidades por e-mail</label>
           </p>
-          <button type="submit">Enviar</button>
+          <label for="enviar">
+            <button type="submit" id="enviar">Enviar</button>
+          </label>
         </fieldset>
      </form>
 </body>
