@@ -1,4 +1,4 @@
-<h1>Exercicios JavaScript 🚀</h1>
+<h1>Exercícios JavaScript 🚀</h1>
 
 <h2>Topicos abordados</h2>
 <br>
