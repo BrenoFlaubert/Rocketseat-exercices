@@ -6,8 +6,14 @@ Use o app ao final de cada dia para refletir sobre sua jornada
 
 ## Conceitos abordados
 
-[] process.stdout
-[] process.stdin
-[] process.on
-[] process.exit
-* Assinconismo
+📌 coceitos basicos de NodeJS
+<br>
+📌 process.stdout
+<br>
+📌 process.stdin
+<br>
+📌 process.on
+<br>
+📌 process.exit
+<br>
+📌Assinconismo
