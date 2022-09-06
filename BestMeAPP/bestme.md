@@ -16,4 +16,4 @@ Use o app ao final de cada dia para refletir sobre sua jornada
 <br>
 📌 process.exit
 <br>
-📌Assinconismo
+📌Assincronismo
