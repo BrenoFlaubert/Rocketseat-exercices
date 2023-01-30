@@ -1,6 +1,5 @@
 # 🚀 Discover Rocketseat
 <h2>Conceitos abordados</h2>
-<p> Status - 70% Concluido<p>
 <br>
 <p> 📌 Front-end com HTML, CSS, JavaScript e DOM</p>
 <p> 📌 Back-end com JavaScript, Node.JS e SQL</p>
